@@ -8,7 +8,7 @@
 
 ชื่อ-สกุล : จิรเดช อรทัย
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-minyjae/
 
 ---
 
